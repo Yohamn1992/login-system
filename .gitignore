@@ -1,0 +1,12 @@
+# Ignorar arquivos temporários
+*.log
+*.tmp
+
+# Ignorar diretórios específicos
+node_modules/
+__pycache__/
+.env
+
+# Ignorar arquivos de configuração específicos
+*.DS_Store
+.idea/
